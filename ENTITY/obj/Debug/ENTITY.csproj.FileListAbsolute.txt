@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\PROGRAMACION III\PulseHeart10\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\DELL\Desktop\PROGRAMACION III\PulseHeart10\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\DELL\Desktop\PROGRAMACION III\PulseHeart10\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROGRAMACION III\PulseHeart10\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROGRAMACION III\PulseHeart10\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\DELL\Desktop\PROGRAMACION III\PulseHeart10\ENTITY\obj\Debug\ENTITY.pdb
